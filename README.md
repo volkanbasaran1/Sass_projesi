@@ -18,7 +18,7 @@
         <ul>
             <li>HTML</li>
              <li>CSS</li>
-             <li>Sass/li>
+             <li>Sass</li>
         </ul>
         <h2>Teşekkürler</h2>
     </div>
